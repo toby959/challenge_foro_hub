@@ -1,4 +1,4 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=toby959&repo=foro-hub&countColor=%230e75b6)
+![](https://api.visitorbadge.io/api/VisitorHit?user=toby959&repo=challenge_foro_hub.git&countColor=%230e75b6)
 
  <h1 style="text-align: center;"> Api Foro-Hub 👁️‍🗨️</h1>
 
@@ -35,7 +35,7 @@ ___
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)&nbsp;&nbsp;&nbsp;![Java 17](https://img.shields.io/badge/java-17-blue?logo=java)&nbsp;&nbsp;&nbsp;![Version](https://img.shields.io/badge/version-v1.0-COLOR.svg)&nbsp;&nbsp;&nbsp;[![MIT License](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)&nbsp;&nbsp;&nbsp;![IntelliJ IDEA Community](https://img.shields.io/badge/IDE-IntelliJ%20IDEA%20Community-red?style=flat)&nbsp;&nbsp;&nbsp;![swagger 2.7.0](https://img.shields.io/badge/SWAGGER-%202.6.0-purple?style=flat)&nbsp;&nbsp;&nbsp;
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)&nbsp;&nbsp;&nbsp;![Java 17](https://img.shields.io/badge/java-17-blue?logo=java)&nbsp;&nbsp;&nbsp;![Version](https://img.shields.io/badge/version-v1.0-COLOR.svg)&nbsp;&nbsp;&nbsp;[![MIT License](https://img.shields.io/badge/licencia-MIT-blue.svg)](LICENSE)&nbsp;&nbsp;&nbsp;![IntelliJ IDEA Community](https://img.shields.io/badge/IDE-IntelliJ%20IDEA%20Community-red?style=flat)&nbsp;&nbsp;&nbsp;![swagger 2.7.0](https://img.shields.io/badge/SWAGGER-%202.7.0-purple?style=flat)&nbsp;&nbsp;&nbsp;
 ___
 
 
@@ -43,9 +43,9 @@ ___
 1 - Clona el repositorio en tu máquina local
 ``` bash
 git clone
-<https://github.com/toby959/foro-hub.git>
+<https://github.com/toby959/challenge_foro_hub.git>
 ```
-2 - Compila y ejecuta el archivo ApiApplication.java.
+2 - Compila y ejecuta el archivo ChallengeForoHubApplication.java
 ___
 
 # Funcionalidades 📦
