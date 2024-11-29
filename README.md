@@ -199,4 +199,4 @@ ___
 
 #### Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/toby959/foro-hub/blob/main/LICENSE) para más detalles.
 
-![Imagen Badge Challenge-foro-hub](imagen6.png)
+![Imagen Badge Challenge-foro-hub](Badge-Spring,png)
